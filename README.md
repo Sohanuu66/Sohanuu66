@@ -24,7 +24,7 @@ Hit me up → asohankumar34@gmail.com
 
 ## Projects
 
-**[Agentic RAG Document Intelligence System](https://github.com/Revanthkolla16/Ask-my-Docs)** — FastAPI RAG pipeline with hybrid retrieval (dense ChromaDB/FAISS + sparse BM25, fused via Reciprocal Rank Fusion) and cross-encoder reranking. An LLM-driven orchestrator agent dynamically routes each query between cached-evidence reuse, retrieval, and generation. Citation-grounded answers validated by an NLI-based hallucination detector and a RAGAS eval suite. Autonomous web-search fallback (Tavily) for low-confidence retrieval, with SQLite-backed session memory across multi-turn conversations.
+**[Agentic RAG Document Intelligence System](https://github.com/Sohanuu66/Agentic-RAG)** — FastAPI RAG pipeline with hybrid retrieval (dense ChromaDB/FAISS + sparse BM25, fused via Reciprocal Rank Fusion) and cross-encoder reranking. An LLM-driven orchestrator agent dynamically routes each query between cached-evidence reuse, retrieval, and generation. Citation-grounded answers validated by an NLI-based hallucination detector and a RAGAS eval suite. Autonomous web-search fallback (Tavily) for low-confidence retrieval, with SQLite-backed session memory across multi-turn conversations.
 
 `Python` `FastAPI` `ChromaDB` `FAISS` `OpenAI` `RAGAS` `Tavily`
 
